@@ -101,7 +101,7 @@ class Category_601 {
 	};
 	class ItemSodaRbull {
 		type = "trade_items";
-		buy[] = {3500,"worth"};
+		buy[] = {3000,"worth"};
 		sell[] = {1000,"worth"};
 	};
 	class ItemSodaOrangeSherbet {
