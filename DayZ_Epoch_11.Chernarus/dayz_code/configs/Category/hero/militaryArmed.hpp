@@ -76,23 +76,23 @@ class LandRover_MG_TK_EP1_DZE {
 	};
 	class M1A1 {
         type = "trade_any_vehicle";
-   buy[] = {14000000,"worth"};
-       
+   buy[] = {1400000,"worth"};
+   
 
         sell[] = {5250000,"worth"};
     };
 	class M1A1_US_DES_EP1 {
         type = "trade_any_vehicle";
-   buy[] = {14000000,"worth"};
+   buy[] = {1400000,"worth"};
         
 
         sell[] = {5250000,"worth"};
     };
 	class M1A2_TUSK_MG {
         type = "trade_any_vehicle";
-       
+    buy[] = {1400000,"worth"};
 
-        sell[] = {8000000,"worth"};
+        sell[] = {4000000,"worth"};
     };
 	class M1A2_US_TUSK_MG_EP1 {
         type = "trade_any_vehicle";
